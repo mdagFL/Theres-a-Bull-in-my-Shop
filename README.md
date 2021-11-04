@@ -1,2 +1,6 @@
-# Release
-Play the game in your browser here: https://kitchencabinetarcade.itch.io/theres-a-bull-in-my-shop
+# About
+Action/Strategy game developed using Unity and C# for Game Design I course and Fall 2020 Florida Poly Game Expo.
+In this game, the player must carefully lure a bull through a china shop to the exit whilst minimizing property damage.
+
+# Release Page
+https://kitchencabinetarcade.itch.io/theres-a-bull-in-my-shop
